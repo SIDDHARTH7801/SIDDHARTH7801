@@ -81,31 +81,31 @@ Website build using HTML5, CSS3, JavaScript and jQuery.
 ## Connect with me  
 
 <div align="center">
-<a href="https://dev.to/https://dev.to/sid7801" target="_blank">
+<a href="https://dev.to/sid7801" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/https://www.kaggle.com/siddharthsutariya" target="_blank">
+<a href="https://www.kaggle.com/siddharthsutariya" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.behance.net/https://www.behance.net/siddharsutariy" target="_blank">
+<a href="https://www.behance.net/siddharsutariy" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
 <a href="https://dribbble.com/SID7801" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
-<a href="https://hashnode.com/@https://hashnode.com/@STRIXSID" target="_blank">
+<a href="https://hashnode.com/@STRIXSID" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18954276/siddharth-sutariya" target="_blank">
+<a href="https://stackoverflow.com/users/18954276/siddharth-sutariya" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://codepen.com/https://codepen.io/SIDDHARTH-SUTARIYA" target="_blank">
+<a href="https://codepen.io/SIDDHARTH-SUTARIYA" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddharth-sutariya-18a7aa1a4/" target="_blank">
+<a href="https://www.linkedin.com/in/siddharth-sutariya-18a7aa1a4/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/https://github.com/SIDDHARTH7801" target="_blank">
+<a href="https://github.com/SIDDHARTH7801" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
