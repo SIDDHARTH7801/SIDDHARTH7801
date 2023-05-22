@@ -7,7 +7,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 © 2023 Sid Sutariya
 
 <div align="center">
-<img src="https://github.com/SIDDHARTH7801/SIDDHARTH7801/blob/main/s_s_port.png" align="center" style="width: 100%" />
+<img src="poster.png" align="center" style="width: 100%" />
 </div>  
   
 ### <div align="center">I'm Sid, a full-time full-stack freelance developer and UX/UI designer 👨‍💻 working remotely  🚀</div>  
