@@ -10,6 +10,7 @@
 <div align="center">
 <a href="https://siddharthsutariya.netlify.app/" target="_blank">**Portfolio** 🚀</a>
 <div>
+<div>
 <br/>
 
   
@@ -22,6 +23,7 @@
 - ⚡ I am creative Ux/Ui designer  
   
 <br/>  
+<div>
 
 ## My Skill Set  
 
