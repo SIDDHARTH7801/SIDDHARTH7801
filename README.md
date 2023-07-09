@@ -8,7 +8,7 @@
 </div>  
 
 <div align="center">
-<a href="https://siddharthsutariya.netlify.app/" target="_blank">**Portfolio** 🚀</a>
+<b><a href="https://siddharthsutariya.netlify.app/" target="_blank">Portfolio Website 🚀</a></b>
 <br/>
 <div>
 <div align="left">
