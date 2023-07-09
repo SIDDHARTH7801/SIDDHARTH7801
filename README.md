@@ -2,14 +2,16 @@
 <img src= "https://github.com/SIDDHARTH7801/SIDDHARTH7801/assets/104444502/5d65383e-bec9-4669-a5ad-4f6a31923cf5"/>
 
 </div>  
-Website build using HTML5, CSS3, JavaScript and jQuery.
+<div align="center">
+  <h1><b>Hi there, 👋 This is Siddharth - aka <a href="https://www.github.com/SIDDHARTH7801">SID</a></b></h1>
+  <h2><b>I'm a full-time full-stack freelance developer and UX/UI designer and Open Source Contributor ! </b><h2>
+</div>  
 
-<a href="https://siddharthsutariya.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<div align="center">
+<a href="https://siddharthsutariya.netlify.app/" target="_blank">**Portfolio** 🚀</a>
+<div>
+<br/>
 
-
-
-  
-### <div align="center">I'm Sid, a full-time full-stack freelance developer and UX/UI designer 👨‍💻 working remotely  🚀</div>  
   
 - 🔭 I’m currently learning Machine Learning  
   
