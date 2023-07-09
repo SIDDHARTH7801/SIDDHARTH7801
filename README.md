@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://lh3.googleusercontent.com/Fm93A4IUKiAtvZ99xF060qshni6tsawxNZA5wytRd2S4zbFzK1HiiyYteCgUkhd_7e0IjQbSUUAe0R_J-g4iPrjjS6hPOu3EPrTrCJdQcA"  
- align="center" style="width: 100%" />
+<img src= "https://github.com/SIDDHARTH7801/SIDDHARTH7801/assets/104444502/5d65383e-bec9-4669-a5ad-4f6a31923cf5"/>
+
 </div>  
 Website build using HTML5, CSS3, JavaScript and jQuery.
 
