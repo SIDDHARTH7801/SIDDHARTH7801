@@ -10,7 +10,7 @@
 <div align="center">
 <a href="https://siddharthsutariya.netlify.app/" target="_blank">**Portfolio** 🚀</a>
 <div>
-<div>
+<div align="left">
 <br/>
 
   
